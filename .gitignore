@@ -1,0 +1,8 @@
+.cache/
+demo-output/
+reports/
+__pycache__/
+*.pyc
+.env
+*.log
+!sample.log
